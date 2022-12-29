@@ -1,0 +1,924 @@
+
+@media screen and (max-width: 1906px){
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        right: 39%;
+    }
+}
+
+@media screen and (max-width: 1457px){
+    .bottom_sections .bottom_all .bottom_meddle .bottom_meddle_image {
+        margin-top: 22px;
+    }
+    .bottom_sections .bottom_all .bottom_meddle {
+        width: 22%;
+        margin-left: 6%;
+    }
+}
+
+@media screen and (max-width: 1367px){
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .quantity_wrapper {
+        margin-left: 10%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box {
+        width: 24%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .card_box_img .hover_animation {
+        left: 19%;
+    }
+}
+
+@media screen and (max-width: 1336px){
+    .top_selling_product .top_sell_all .for_75 .card_all .card_bottom .cart_bottom_box {
+        width: 23%;
+    }
+}
+
+@media screen and (max-width: 1245px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        top: -24%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text h1 {
+        font-size: 60px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text h2 {
+        font-size: 60px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text p {
+        font-size: 20px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text button {
+        font-size: 14px;
+        margin-top: 31px;
+    }
+}
+
+@media screen and (max-width: 1220px){
+    .top_selling_product .top_sell_all .for_75 .card_all .card_bottom .cart_bottom_box .quantity_wrapper {
+        margin-left: 9%;
+    }
+}
+
+
+
+@media screen and (max-width: 1200px) {
+    .mobile_header {
+        display: block;
+    }
+
+    .main-header {
+        display: none;
+    }
+
+    .menu_section {
+        display: none;
+    }
+
+    .mobile_header .mobile_header_main_sec .mobile_menu_logo a img {
+        width: 53%;
+        margin-left: 10%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .quantity_wrapper {
+        margin-left: 4%;
+    }
+    body .mobile_menu_body .menu_close_btn {
+        right: 70%;
+    }
+}
+
+
+
+@media screen and (max-width: 1143px) {
+    .category-body {
+        text-align: center;
+    }
+    .category-body .category-box {
+        width: 20%;
+    }
+}
+
+@media screen and (max-width: 1138px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 68%;
+    }
+}
+
+@media screen and (max-width: 1132px){
+    .top_selling_product .top_sell_all .for_75 .card_all .card_bottom .cart_bottom_box {
+        width: 32%;
+    }
+}
+
+@media screen and (max-width: 1069px){
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 {
+        background-repeat: no-repeat;
+    }
+}
+
+@media screen and (max-width: 1060px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 66%;
+    }
+}
+
+@media screen and (max-width: 1037px){
+    .bottom_meddle .main_section .bottom_meddle_menu {
+        width: 30%;
+        margin-bottom: 27px;
+        margin-left: 3%;
+    }
+    .bottom_meddle .main_section {
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    .banner-text {
+        width: 100%;
+        position: relative;
+        right: 45%;
+    }
+    .banner-sections .banner_sec_parents .free_div {
+        width: 0%;
+    }
+
+    .banner-sections .banner_sec_parents .banner {
+        width: 100%;
+        border: 21px solid #fff;
+        border-radius: 52px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        top: -4%;
+    }
+
+    .banner-sections .banner_sec_parents .banner {
+        padding: 50px 228px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text h1 {
+        font-size: 45px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text h2 {
+        font-size: 46px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text p {
+        margin-bottom: -3px;
+        font-size: 19px;
+
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text button {
+        font-size: 13px;
+        margin-top: 26px;
+    }
+
+    .banner-sections .banner_sec_parents .banner {
+        padding: 51px 262px;
+    }
+    .bottom_sections .bottom_all {
+        flex-wrap: wrap;
+    }
+    .bottom_sections .bottom_all .bottom_left {
+        width: 49%;
+    }
+    .bottom_sections .bottom_all .bottom_meddle {
+        width: 32%;
+        margin-left: 6%;
+        margin-top: 4%;
+    }
+    .challange_body{
+        display: block;
+    }
+}
+
+@media screen and (max-width: 1011px){
+    .organaig_testy .organais_all .testy_organais_25 {
+        width: 0%;
+        display: none;
+    }
+    .organaig_testy .organais_all .testy_organais_75 {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 996px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 64%;
+    }
+}
+
+@media screen and (max-width: 944px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 62%;
+    }
+}
+
+@media screen and (max-width: 939px){
+    .category-body .category-box {
+        width: 25%;
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+@media screen and (max-width: 898px){
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box {
+        width: 32%;
+    }
+} 
+
+@media screen and (max-width: 890px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 60%;
+    }
+}
+
+@media screen and (max-width: 888px){
+    .bottom_top .bottom_top_all .bottom_top_bottom {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .bottom_top .bottom_top_all .bottom_top_bottom .bottom_img {
+        width: 26%;
+        margin-bottom: 25px;
+    }
+}
+
+@media screen and (max-width: 850px){
+    .organaig_testy .organais_all .testy_organais_75 .fiveth75_section .fiveth75_bottom { 
+        flex-wrap: wrap;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .fiveth75_section .fiveth75_bottom .five_bottom_box {
+        width: 49%;
+        margin-bottom: 25px;
+    }
+}
+
+@media screen and (max-width: 848px) {
+    .banner-sections .banner_sec_parents .banner {
+        padding: 36px 214px;
+    }
+    body .mobile_menu_body .menu_close_btn {
+        right: 57%;
+    }
+}
+
+@media screen and (max-width: 834px){
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 h1 {
+        color: white;
+        font-size: 36px;
+        width: 85%;
+    }
+}
+
+@media screen and (max-width: 800px){
+    .top_selling_product .top_sell_all .for_25 {
+        width: 0%;
+        display: none;
+    }
+    .top_selling_product .top_sell_all .for_75 {
+        width: 100%;
+    }
+
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_top .thart75_text_box {
+        width: 91%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_top .thart75_text_box h5 {
+        display: inline-block;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_top .thart75_text_box h4 { 
+        display: inline;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .fourth75_section .fourth_75_bottom {
+        flex-wrap: wrap;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .fourth75_section .fourth_75_bottom .fourth_bottom_box {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 799px) {
+    .banner-sections .banner_sec_parents .banner .banner-text p {
+        display: none;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text h1 {
+        font-size: 40px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text h2 {
+        font-size: 40px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text button {
+        margin-top: -39px;
+    }
+}
+
+@media screen and (max-width: 790px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 55%;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .category-body .category-box {
+        width: 32%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 h1 {
+        font-size: 31px;
+        width: 113%;
+    }
+    .bottom_sections .bottom_all .bottom_left {
+        width: 100%;
+    }
+    .bottom_sections .bottom_all .bottom_meddle {
+        width: 100%;
+    }
+    .bottom_sections .bottom_all .bottom_right {
+        width: 100%;
+    }
+    .bottom_sections .bottom_all .bottom_meddle .bottom_meddle_image .thirt_image {
+        width: 104%;
+    }
+    .bottom_sections .bottom_all .bottom_meddle .bottom_meddle_image .second_image {
+        width: 22%;
+        margin-bottom: 1px;
+    }
+    .bottom_sections .bottom_all .bottom_meddle .bottom_meddle_image .frist_image {
+        width: 24%;
+    }
+}
+
+@media screen and (max-width: 750px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 52%;
+    }
+}
+
+@media screen and (max-width: 749px) {
+    .banner-sections .banner_sec_parents .banner .banner-text h2 {
+        font-size: 36px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text h1 {
+        font-size: 36px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        top: -3%;
+        left: -77%;
+    }
+
+    .banner-sections .banner_sec_parents .banner {
+        padding: 39px 220px;
+    }
+}
+
+@media screen and (max-width: 737px){
+    .bottom_meddle .main_section .bottom_meddle_menu {
+        width: 100%;
+        margin-bottom: 27px;
+        margin-left: 3%;
+    }
+}
+
+@media screen and (max-width: 721px){
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box {
+        width: 49%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .quantity_wrapper {
+        margin-left: 20%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .quantity_wrapper {
+        width: 35%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .card_box_img .hover_animation {
+        left: 26%;
+    }
+}
+
+@media screen and (max-width: 708px) {
+    .banner-sections .banner_sec_parents .banner {
+        padding: 45px 209px;
+    }
+}
+
+@media screen and (max-width: 700px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 49%;
+    }
+}
+
+@media screen and (max-width: 689px){
+    .bottom_sections .bottom_all .bottom_meddle .bottom_meddle_image .second_image {
+        width: 25%;
+    }
+    .bottom_sections .bottom_all .bottom_meddle .bottom_meddle_image .frist_image {
+        width: 25%;
+    }
+}
+
+@media screen and (max-width: 687px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 267%;
+    }
+    
+}
+
+@media screen and (max-width: 670px){
+    .footer_sections h4 {
+        padding: 17px 0;
+    }
+}
+
+@media screen and (max-width: 666px){
+    .organaig_testy .organais_all .testy_organais_75 .fiveth75_section .fiveth75_bottom .five_bottom_box {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+}
+
+@media screen and (max-width: 664px){
+    .category-body .category-box {
+        width: 48%;
+    }
+    .category-body .category-text {
+        text-align: center;
+        width: 54%;
+    }
+} 
+
+@media screen and (max-width: 624px) {
+    .banner-sections .banner_sec_parents .banner {
+        padding: 32px 177px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -70%;
+    }
+}
+
+@media screen and (max-width: 661px){
+    .bottom_sections .bottom_all .bottom_meddle .bottom_meddle_image .frist_image {
+        width: 26%;
+    }
+    .bottom_sections .bottom_all .bottom_meddle .bottom_meddle_image .second_image {
+        width: 29%;
+    }
+}
+
+
+@media screen and (max-width: 660px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 46%;
+    }
+}
+
+@media screen and (max-width: 624px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 42%;
+    }
+}
+
+@media screen and (max-width: 610px){
+    .top_selling_product .top_sell_all .for_75 .card_all .card_bottom .cart_bottom_box {
+        width: 49%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .quantity_wrapper {
+        margin-left: 15%;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .bottom_sections .bottom_all .bottom_meddle .bottom_meddle_image .frist_image {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .bottom_sections .bottom_all .bottom_meddle .bottom_meddle_image .second_image {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 586px) {
+    .mobile_header .mobile_header_main_sec .mobile_menu_logo a img {
+        width: 61%;
+        margin-left: 14%;
+    }
+}
+
+@media screen and (max-width: 580px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 39%;
+    }
+}
+
+@media screen and (max-width: 570px){
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box {
+        width: 100%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .card_box_img {
+        text-align: center;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .quantity_wrapper {
+        width: 29%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .quantity_wrapper {
+        margin-left: 30%;
+    }
+    .bottom_top .bottom_top_all .bottom_top_bottom .bottom_img {
+        margin-bottom: 25px;
+    }
+}
+
+@media screen and (max-width: 558px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 282%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -88%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text h1 {
+        font-size: 45px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text h2 {
+        font-size: 45px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 35%;
+    }
+}
+
+@media screen and (max-width: 533px){
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 h1 {
+        font-size: 30px;
+        width: 115%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .second_testy_organais_75 .is_an_everythings .second_75_button {
+        margin-top: 30px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .second_testy_organais_75 .is_an_everythings .second_75_button button:first-child {
+        width: 43%;
+        margin-bottom: 6%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .second_testy_organais_75 .is_an_everythings .second_75_button button {
+        margin-bottom: 5%;
+    }
+    .top_selling_product .top_sell_all .for_75 .card_all .card_top .card_button button {
+        margin-top: 6%;
+    }
+    .top_selling_product .top_sell_all .for_75 .card_all .card_top .card_button button:first-child {
+        width: 48%;
+    }
+    .top_selling_product .top_sell_all .for_75 .card_all .card_top .card_button {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 520px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 31%;
+    }
+}
+
+@media screen and (max-width: 504px){
+    .organaig_testy .organais_all .testy_organais_75 .second_testy_organais_75 .is_an_everythings .second_75_button button:first-child {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 498px) {
+    .banner-sections .banner_sec_parents .banner .banner-text button {
+        font-size: 11px;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text button {
+        padding: 6px 17px;
+    }
+}
+
+@media screen and (max-width: 496px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 389%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -132%;
+    }
+}
+
+@media screen and (max-width: 490px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 27%;
+    }
+}
+
+@media screen and (max-width: 486px){
+    .organaig_testy .organais_all .testy_organais_75 .second_testy_organais_75 .is_an_everythings .second_75_button button {
+        margin-bottom: 5%;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 483px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        margin-right: -27px;
+    }
+}
+
+@media screen and (max-width: 468px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 490%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -219%;
+    }
+}
+
+@media screen and (max-width: 460px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 22%;
+    }
+}
+
+@media screen and (max-width: 456px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -198%;
+    }
+}
+
+@media screen and (max-width: 454px){
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 a i {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 453px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 636%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -267%;
+    }
+}
+
+@media screen and (max-width: 452px) {
+    .mobile_header .mobile_header_main_sec .mobile_menu_cart_button button {
+        padding: 7px 11px;
+        font-size: 17px;
+    }
+
+    .mobile_header .mobile_header_main_sec .mobile_menu_buutton button {
+        padding: 7px 10px;
+        font-size: 14px;
+    }
+
+}
+
+@media screen and (max-width: 450px){
+    .category-body .category-box {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 448px){
+    .top_selling_product .top_sell_all .for_75 .card_all .card_top .card_button button:first-child {
+        width: 100%;
+    }
+    .top_selling_product .top_sell_all .for_75 .card_all .card_top .card_button button {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 684%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -340%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_top h1 {
+        font-size: 19px;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_top .thart75_text_box h4 {
+        font-size: 20px;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_top .thart75_text_box h5 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 377px){
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_top .thart75_text_box h4 {
+        font-size: 18px;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_top .thart75_text_box h5 {
+        font-size: 18px;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_top .thart75_text_box {
+        width: 97%;
+    }
+}
+
+@media screen and (max-width: 437px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -373%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 913%;
+    }
+    .top_selling_product .top_sell_all .for_75 .card_all .card_bottom .cart_bottom_box {
+        width: 100%;
+    }
+    .top_selling_product .top_sell_all .for_75 .card_all .card_bottom .cart_bottom_box .quantity_wrapper {
+        width: 26%;
+        margin-left: 30%;
+    }
+    .top_selling_product .top_sell_all .for_75 .card_all .card_bottom .cart_bottom_box .card_box_img .hover_animation {
+        top: 75%;
+        left: 34%;
+    }
+}
+
+@media screen and (max-width: 431px){
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 a {
+        margin-left: -12px;
+        width: 106%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 h1 {
+        width: 169%;
+        position: relative;
+        right: 32%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 a {
+        margin-left: -54px;
+    }
+}
+
+@media screen and (max-width: 430px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 16%;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -469%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 1001%;
+    }
+}
+@media screen and (max-width: 422px){
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 a {
+        width: 151%;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 411px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -1007%;
+    }
+}
+
+@media screen and (max-width: 404px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -1763%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 1136%;
+    }
+}
+
+@media screen and (max-width: 403px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -2000%;
+    }
+
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 1500%;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -4000%;
+    }
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 22500%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .thart_testy_organais_75 .thart75_box .box_bottom .cart_bottom_box .quantity_wrapper {
+        margin-left: 18%;
+    }
+    body .mobile_menu_body .menu_close_btn {
+        right: 8%;
+    }
+}
+
+@media screen and (max-width: 399px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -5000%;
+    }
+}
+
+@media screen and (max-width: 397px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -16536%;
+    }
+}
+
+@media screen and (max-width: 396px) {
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        left: -19536%;
+    }
+}
+
+
+@media screen and (max-width: 398px){
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 396px){
+    .banner-sections .banner_sec_parents .banner .banner-text {
+        width: 100%;
+        margin: 0px 6px 0px -148px;
+    }
+    .banner-sections .banner_sec_parents .banner .banner-text h1 {
+        font-size: 35px;
+    }
+    .banner-sections .banner_sec_parents .banner .banner-text h2 {
+        font-size: 35px;
+    }
+    .banner-sections .banner_sec_parents .banner .banner-text button {
+        padding: 5px 35px;
+    }
+}
+
+@media screen and (max-width: 380px){
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 h1 {
+        width: 187%;
+        right: 39%;
+    }
+}
+
+@media screen and (max-width: 377px){
+    .banner-sections .banner_sec_parents .banner {
+        padding: 23px 169px;
+    }
+}
+
+@media screen and (max-width: 374px){
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 a {
+        width: 200%;
+    }
+}
+
+@media screen and (max-width: 361px){
+    .banner-sections .banner_sec_parents .banner {
+        padding: 23px 160px;
+    }
+}
+
+@media screen and (max-width: 360px){
+    body .mobile_menu_body .menu_close_btn {
+        right: 3%;
+    }
+}
+
+@media screen and (max-width: 350px){
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 a {
+        width: 236%;
+    }
+    .organaig_testy .organais_all .testy_organais_75 .frist_testy_organais_75 h1 {
+        width: 235%;
+        right: 62%;
+    }
+}
+
